@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="400px" viewBox="0 0 800 400" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Task Dashboard Preview</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#1E1E1E" width="800" height="400"/>
+        <rect fill="#6366F1" opacity="0.2" x="40" y="40" width="720" height="60" rx="8"/>
+        <rect fill="#6366F1" opacity="0.3" x="40" y="120" width="340" height="240" rx="8"/>
+        <rect fill="#6366F1" opacity="0.3" x="420" y="120" width="340" height="240" rx="8"/>
+    </g>
+</svg>
